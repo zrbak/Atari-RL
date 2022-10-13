@@ -9,3 +9,10 @@ We will try to explore a RL alogorithm and game that has not been attempted befo
 Additionally, if we can find any updates to these algorithms, we can try these too
 
 
+Some algorithms to look at:
+
+Temporal Difference Learning for Model Predicitive Control (Most promising)
+https://www.researchgate.net/publication/359129864_Temporal_Difference_Learning_for_Model_Predictive_Control
+
+Genetic Algorithm Update
+Federated Reinforcement Learning
