@@ -3,6 +3,10 @@ This is a Atari project that is using unique RL algorithms to train onto Atari g
 
 We will start by using the openai Atari wrapper as the backend to handle the pixel inputs
 
+The link to the Openai gym is here: https://github.com/openai/gym
+
+To get started: https://www.gymlibrary.dev/
+
 The following website shows the RL algorithms tried for each game: https://paperswithcode.com/task/atari-games
 
 We will try to explore a RL alogorithm and game that has not been attempted before and will compare performance using this website. 
