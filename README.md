@@ -45,9 +45,12 @@ To get started:
 Homepage to the Gym - https://www.gymlibrary.dev/
 Documentation outlining basic usage - https://www.gymlibrary.dev/content/basic_usage/
 
+
+# Misc 
+
 The following website shows the RL algorithms tried for each game: https://paperswithcode.com/task/atari-games
 
-We will try to explore a RL alogorithm and game that has not been attempted before and will compare performance using this website. 
+We will try to explore a RL algorithm and game that has not been attempted before and will compare performance using this website. 
 Additionally, if we can find any updates to these algorithms, we can try these too
 
 
