@@ -27,7 +27,7 @@ Git is a very powerful tool for version control and dev work. Ideally, people sh
 
 FOR EVERY CHANGE YOU MAKE, MAKE A NEW BRANCH WITH A DESCRIPTIVE TITLE OF YOUR WORK INTENT (ie add-readme-file)
 
-D O  N O T  P U S H  Y O U R  C O D E  D I R E C T L Y  O N T O  T H E  M A I N  B R A N C H
+D O _ N O T  _  P U S H  _ Y O U R  _  C O D E  _  D I R E C T L Y  _  O N T O  _ T H E  _  M A I N  _  B R A N C H
 
 After making a branch, make sure to actively commit any changes to that branch. When you are done push the changes up to the server and submit a pull request to merge your branch with the main. Once all conflicts (if there are any) have been successfully resolved, then the changes added will be reflected in the main branch. 
 That's version control 101 for ya
