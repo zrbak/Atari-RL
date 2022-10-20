@@ -43,9 +43,13 @@ We will be using the openai Atari wrapper to handle the pixel inputs
 
 The link to the Openai gym is here: https://github.com/openai/gym
 
+
 To get started: 
 
+
 Homepage to the Gym - https://www.gymlibrary.dev/
+
+
 Documentation outlining basic usage - https://www.gymlibrary.dev/content/basic_usage/
 
 
