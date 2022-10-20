@@ -4,7 +4,7 @@ This is a Atari project that is using unique RL algorithms to train onto Atari g
 # Setup
 To start this project, first you need to clone this repo and download the AtariGym.yml file saved in the Environment folder.
 
-Make sure that you have installed the latest version of Anaconda3 onto your device
+Make sure that you have installed the latest version of Anaconda3 onto your device.
 Additionally, to work with the libraries you will need to download the latest C++ build tools found at: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 Go into Anaconda prompt and type in this code to set up the environment
