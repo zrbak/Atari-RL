@@ -30,6 +30,8 @@ FOR EVERY CHANGE YOU MAKE, MAKE A NEW BRANCH WITH A DESCRIPTIVE TITLE OF YOUR WO
 
 D O _ N O T  _  P U S H  _ Y O U R  _  C O D E  _  D I R E C T L Y  _  O N T O  _ T H E  _  M A I N  _  B R A N C H
 
+I F _ Y O U _ B R E A K _ T H E _ M A I N _ B R A N C H _ I _ B R E A K _ Y O U
+
 After making a branch, make sure to actively commit any changes to that branch. When you are done push the changes up to the server and submit a pull request to merge your branch with the main. Once all conflicts (if there are any) have been successfully resolved, then the changes added will be reflected in the main branch. 
 That's version control 101 for ya
 
