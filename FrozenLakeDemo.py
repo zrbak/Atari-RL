@@ -1,6 +1,6 @@
 import gym
 from gym.utils.save_video import save_video
-env = gym.make("FrozenLake-v1", render_mode="rgb_array_list")
+env = gym.make("FrozenLake-v1", render_mode="human")
 env.reset()
 step_starting_index = 0
 episode_index = 0

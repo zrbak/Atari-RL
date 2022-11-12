@@ -1,6 +1,8 @@
 import gym
-
+from gym.utils.play import play
 env = gym.make("LunarLander-v2", render_mode="human")
+play(env, zoom=3)
+
 observation, info = env.reset(seed=42)
 
 # for _ in range(1000):
